@@ -25,6 +25,8 @@ A software engineering portfolio by Joel Goh C.H.
 </br>
 **`npm install express`**
 </br>
+**`npm install body-parser`**
+</br>
 **`npm install cors`**
 </br>
 **`npm install lodash`**
