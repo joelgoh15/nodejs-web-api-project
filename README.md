@@ -24,3 +24,7 @@ A software engineering portfolio by Joel Goh C.H.
 **`npm install dotenv`**
 </br>
 **`npm install express`**
+</br>
+**`npm install cors`**
+</br>
+**`npm install lodash`**
